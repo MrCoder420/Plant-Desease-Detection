@@ -10,7 +10,7 @@ const AppContainer = styled.div`
   flex-direction: column;
   height: 100vh; /* Full screen height */
   overflow: hidden; /* Prevent overflow issues */
-  background: url("./img/bg.jpeg");
+  background-color:#008000;
 `;
 
 const NavbarWrapper = styled.div`
@@ -20,18 +20,10 @@ const NavbarWrapper = styled.div`
 
 const ContentWrapper = styled.div`
   flex: 1; /* Take up the remaining space */
-  overflow-y: auto; /* Allow scrolling for the content sections */
-  scroll-snap-type: y mandatory;
-  scroll-behavior: smooth;
-
-  &::-webkit-scrollbar {
-    display: none;
-  }
-
-  /* Ensure all sections are aligned for snapping */
+  /* Removed overflow-y: auto; to prevent scrolling */
+  
   & > div {
     height: 100vh; /* Each section occupies the full viewport */
-    scroll-snap-align: start;
   }
 `;
 
@@ -43,9 +35,9 @@ function App() {
       </NavbarWrapper>
       <ContentWrapper>
         <Hero />
-        <Who />
+        {/* <Who />
         <Works />
-        <Contact />
+        <Contact /> */}
       </ContentWrapper>
     </AppContainer>
   );

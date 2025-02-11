@@ -82,7 +82,7 @@ const DropdownList = styled.ul`
   position: absolute;
   top: 50px;
   right: 0;
-  background-color: rgba(124, 62, 224, 0.9);
+  background-color: rgba(5, 151, 56, 0.7);
   border-radius: 8px;
   list-style: none;
   padding: 10px 0;
@@ -157,17 +157,17 @@ const Navbar = () => {
     <Section>
       <Container>
         <Links>
-          <Logo src="./img/logo.png" />
+          <Logo src="./img/logo.jpg" />
           <DesktopList>
             <ListItem>Home</ListItem>
-            <ListItem>Studio</ListItem>
-            <ListItem>Works</ListItem>
-            <ListItem>Contact</ListItem>
+            <ListItem>Solution</ListItem>
+            <ListItem>About Us</ListItem>
+           
           </DesktopList>
         </Links>
         <Icons>
           <Icon src="./img/search.png" />
-          <Button>Hire Now</Button>
+       
           <DropdownContainer ref={dropdownRef}>
             <DropdownButton
               ref={buttonRef}
@@ -177,9 +177,9 @@ const Navbar = () => {
             </DropdownButton>
             <DropdownList open={dropdownOpen}>
               <DropdownListItem>Home</DropdownListItem>
-              <DropdownListItem>Studio</DropdownListItem>
-              <DropdownListItem>Works</DropdownListItem>
-              <DropdownListItem>Contact</DropdownListItem>
+              <DropdownListItem>Solution</DropdownListItem>
+              <DropdownListItem>About Us</DropdownListItem>
+             
             </DropdownList>
           </DropdownContainer>
         </Icons>
