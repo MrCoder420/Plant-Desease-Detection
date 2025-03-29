@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPT Clone</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f4f4f4; text-align: center; }
+        .chat-container { width: 400px; margin: 20px auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); }
+        .chat-box { height: 400px; overflow-y: auto; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+        .message { padding: 10px; margin: 5px; border-radius: 5px; max-width: 80%; }
+        .user { background: #0084ff; color: white; align-self: flex-end; text-align: right; }
+        .bot { background: #e5e5ea; color: black; text-align: left; }
+        .input-box { width: 100%; padding: 10px; }
+        button { background: #0084ff; color: white; border: none; padding: 10px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <h2>ChatGPT Clone</h2>
+        <div class="chat-box" id="chatBox"></div>
+        <input type="text" id="userInput" class="input-box" placeholder="Type your message...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        const apiKey = "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";  // Your API Key
+        const apiUrl = "https://openrouter.ai/api/v1/chat/completions";
+
+        async function sendMessage() {
+            let userInput = document.getElementById("userInput").value;
+            if (!userInput) return;
+            
+            let chatBox = document.getElementById("chatBox");
+            chatBox.innerHTML += `<div class='message user'>${userInput}</div>`;
+            document.getElementById("userInput").value = "";
+            chatBox.innerHTML += `<div class='message bot'>Thinking...</div>`;
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            let response = await fetch(apiUrl, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": `Bearer ${apiKey}`
+                },
+                body: JSON.stringify({
+                    "model": "mistralai/mistral-small-24b-instruct-2501:free",
+                    "messages": [{ "role": "user", "content": userInput }],
+                    "top_p": 1,
+                    "temperature": 0.9
+                })
+            });
+
+            let data = await response.json();
+            let botMessage = data.choices[0].message.content;
+
+            document.querySelector(".bot:last-child").remove(); // Remove "Thinking..."
+            chatBox.innerHTML += `<div class='message bot'>${botMessage}</div>`;
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+    </script>
+</body>
+</html>

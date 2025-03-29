@@ -1,0 +1,124 @@
+{
+  "plants": [
+    {
+      "name": "Wheat",
+      "minTemp": 5,
+      "maxTemp": 30,
+      "frostProtection": [
+        "Use straw mulch to cover wheat plants",
+        "Irrigate lightly in the evening to prevent frost damage",
+        "Avoid nitrogen fertilizers before a frost event"
+      ],
+      "heatProtection": [
+        "Irrigate wheat fields in the early morning or late evening",
+        "Apply potassium-based fertilizers to improve heat resistance",
+        "Use shade nets for young wheat plants"
+      ]
+    },
+    {
+      "name": "Rice",
+      "minTemp": 10,
+      "maxTemp": 35,
+      "frostProtection": [
+        "Increase water level in rice fields to keep roots warm",
+        "Use plastic covers on small rice plants",
+        "Apply organic mulch like dried leaves to insulate soil"
+      ],
+      "heatProtection": [
+        "Increase water supply during high temperatures",
+        "Reduce nitrogen fertilizer application during heatwaves",
+        "Use intercropping with taller plants for shade"
+      ]
+    },
+    {
+      "name": "Tomato",
+      "minTemp": 7,
+      "maxTemp": 32,
+      "frostProtection": [
+        "Use row covers or polytunnels for tomato plants",
+        "Water the plants in the afternoon to retain heat",
+        "Move potted tomato plants indoors or into a greenhouse"
+      ],
+      "heatProtection": [
+        "Water deeply and frequently in the morning",
+        "Use mulch to retain soil moisture",
+        "Provide artificial shade using cloth or netting"
+      ]
+    },
+    {
+      "name": "Carrot",
+      "minTemp": 0,
+      "maxTemp": 25,
+      "frostProtection": [
+        "Cover with cloth or plastic tunnels during frost",
+        "Mulch around plants to protect from cold",
+        "Water plants early in the morning"
+      ],
+      "heatProtection": [
+        "Use drip irrigation to keep soil cool",
+        "Provide shade during the hottest parts of the day",
+        "Use reflective mulch to reduce heat stress"
+      ]
+    },
+    {
+      "name": "Cucumber",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "frostProtection": [
+        "Use row covers to protect young plants",
+        "Cover the plants with plastic sheeting",
+        "Mulch to help retain soil temperature"
+      ],
+      "heatProtection": [
+        "Water plants early in the morning",
+        "Use shade nets to protect from excessive sun",
+        "Increase the frequency of irrigation during heatwaves"
+      ]
+    },
+    {
+      "name": "Lettuce",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "frostProtection": [
+        "Cover the plants with frost cloth during cold nights",
+        "Use a plastic greenhouse for protection",
+        "Mulch the base of the plants to insulate soil"
+      ],
+      "heatProtection": [
+        "Provide partial shade to avoid sunburn",
+        "Water in the early morning or late evening",
+        "Use organic mulch to retain moisture in the soil"
+      ]
+    },
+    {
+      "name": "Peas",
+      "minTemp": 4,
+      "maxTemp": 28,
+      "frostProtection": [
+        "Cover with cloth to protect from frost",
+        "Water plants in the morning to prevent frost damage",
+        "Plant early enough to avoid late frost"
+      ],
+      "heatProtection": [
+        "Shade plants during hot weather",
+        "Increase watering to prevent drying out",
+        "Use mulch to keep soil temperature lower"
+      ]
+    },
+    {
+      "name": "Spinach",
+      "minTemp": 0,
+      "maxTemp": 22,
+      "frostProtection": [
+        "Use frost blankets to cover plants",
+        "Apply mulch to protect roots from freezing",
+        "Water early in the day to avoid frost formation"
+      ],
+      "heatProtection": [
+        "Provide shade during hot weather",
+        "Water deeply in the early morning",
+        "Mulch the soil to retain moisture and cool roots"
+      ]
+    }
+  ]
+}

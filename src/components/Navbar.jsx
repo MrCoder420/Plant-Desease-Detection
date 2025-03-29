@@ -1,4 +1,5 @@
-import React, { useState, useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
+import { useNavigate } from "react-router-dom";
 import styled from "styled-components";
 
 const Section = styled.div`
@@ -18,10 +19,10 @@ const Container = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 20px;
+  padding: 5px 20px;
 
   @media only screen and (max-width: 768px) {
-    padding: 10px;
+    padding: 5px;
   }
 `;
 
@@ -32,7 +33,7 @@ const Links = styled.div`
 `;
 
 const Logo = styled.img`
-  height: 70px;
+  height: 50px;
   border-radius:50%;
 `;
 
@@ -50,7 +51,7 @@ const ListItem = styled.li`
   cursor: pointer;
   padding: 5px 10px;
   transition: all 0.3s ease;
-  color:white;
+  color: white;
 
   &:hover {
     background-color: rgba(255, 255, 255, 0.1);
@@ -130,10 +131,10 @@ const Button = styled.button`
 
 const Navbar = () => {
   const [dropdownOpen, setDropdownOpen] = useState(false);
-  const dropdownRef = useRef(null); // Reference to the dropdown container
-  const buttonRef = useRef(null); // Reference to the dropdown button
+  const dropdownRef = useRef(null);
+  const buttonRef = useRef(null);
+  const navigate = useNavigate();
 
-  // Close dropdown when clicking outside
   useEffect(() => {
     const handleClickOutside = (event) => {
       if (
@@ -141,17 +142,20 @@ const Navbar = () => {
         !dropdownRef.current.contains(event.target) &&
         !buttonRef.current.contains(event.target)
       ) {
-        setDropdownOpen(false); // Close dropdown
+        setDropdownOpen(false);
       }
     };
 
     document.addEventListener("mousedown", handleClickOutside);
-
-    // Cleanup the event listener on component unmount
     return () => {
       document.removeEventListener("mousedown", handleClickOutside);
     };
   }, []);
+
+  const handleNavigation = (path) => {
+    navigate(path);
+    setDropdownOpen(false);
+  };
 
   return (
     <Section>
@@ -159,15 +163,11 @@ const Navbar = () => {
         <Links>
           <Logo src="./img/logo.jpg" />
           <DesktopList>
-            <ListItem>Home</ListItem>
-            <ListItem>Solution</ListItem>
-            <ListItem>About Us</ListItem>
-           
+            <ListItem onClick={() => handleNavigation('/')}>Home</ListItem>
+            <ListItem onClick={() => handleNavigation('/dashboard')}>Dashboard</ListItem>
           </DesktopList>
         </Links>
         <Icons>
-          <Icon src="./img/search.png" />
-       
           <DropdownContainer ref={dropdownRef}>
             <DropdownButton
               ref={buttonRef}
@@ -176,10 +176,8 @@ const Navbar = () => {
               ☰
             </DropdownButton>
             <DropdownList open={dropdownOpen}>
-              <DropdownListItem>Home</DropdownListItem>
-              <DropdownListItem>Solution</DropdownListItem>
-              <DropdownListItem>About Us</DropdownListItem>
-             
+              <DropdownListItem onClick={() => handleNavigation('/')}>Home</DropdownListItem>
+              <DropdownListItem onClick={() => handleNavigation('/dashboard')}>Dashboard</DropdownListItem>
             </DropdownList>
           </DropdownContainer>
         </Icons>

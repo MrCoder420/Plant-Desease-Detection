@@ -45,11 +45,18 @@ const Left = styled.div`
 `;
 
 const Logo = styled.img`
-  width: 350px; /* Adjust size as needed */
-  display: block; /* Removes inline spacing */
-  margin: 0; /* Ensures no extra margin */
-  padding: 0; /* Ensures no extra padding */
-  line-height: 1; /* Prevents extra space */
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  display: block;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 15px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(5px);
+  border: 2px solid rgba(255, 255, 255, 0.3);
 `;
 
 const Title = styled.h1`

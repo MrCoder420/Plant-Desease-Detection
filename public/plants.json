@@ -1,0 +1,10892 @@
+[
+  {
+      "no": 1,
+      "name": "Tomato",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 2,
+      "name": "Potato",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 3,
+      "name": "Carrot",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 4,
+      "name": "Cabbage",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 5,
+      "name": "Lettuce",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 6,
+      "name": "Spinach",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 7,
+      "name": "Pepper",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 8,
+      "name": "Eggplant",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 9,
+      "name": "Corn",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 10,
+      "name": "Wheat",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 11,
+      "name": "Rice",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 12,
+      "name": "Barley",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 13,
+      "name": "Oats",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 14,
+      "name": "Soybean",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 15,
+      "name": "Peanut",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 16,
+      "name": "Sunflower",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 17,
+      "name": "Cotton",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 18,
+      "name": "Sugarcane",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 19,
+      "name": "Strawberry",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 20,
+      "name": "Apple",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 21,
+      "name": "Orange",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 22,
+      "name": "Banana",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 23,
+      "name": "Mango",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 24,
+      "name": "Papaya",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 25,
+      "name": "Grapes",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 26,
+      "name": "Pineapple",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 27,
+      "name": "Coconut",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 28,
+      "name": "Avocado",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 29,
+      "name": "Cherry",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 30,
+      "name": "Peach",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 31,
+      "name": "Plum",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 32,
+      "name": "Pear",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 33,
+      "name": "Pomegranate",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 34,
+      "name": "Watermelon",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 35,
+      "name": "Cantaloupe",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 36,
+      "name": "Guava",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 37,
+      "name": "Fig",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 38,
+      "name": "Olive",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 39,
+      "name": "Lemon",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 40,
+      "name": "Lime",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 41,
+      "name": "Coffee",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 42,
+      "name": "Tea",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 43,
+      "name": "Cocoa",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 44,
+      "name": "Vanilla",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 45,
+      "name": "Mint",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 46,
+      "name": "Basil",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 47,
+      "name": "Rosemary",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 48,
+      "name": "Thyme",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 49,
+      "name": "Oregano",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 50,
+      "name": "Lavender",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 51,
+      "name": "Jasmine",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 52,
+      "name": "Chili",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 53,
+      "name": "Garlic",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 54,
+      "name": "Onion",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 55,
+      "name": "Ginger",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 56,
+      "name": "Turmeric",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 57,
+      "name": "Beetroot",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 58,
+      "name": "Radish",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 59,
+      "name": "Pumpkin",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 60,
+      "name": "Zucchini",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 61,
+      "name": "Broccoli",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 62,
+      "name": "Cauliflower",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 63,
+      "name": "Brussels Sprout",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 64,
+      "name": "Asparagus",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 65,
+      "name": "Celery",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 66,
+      "name": "Okra",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 67,
+      "name": "Peas",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 68,
+      "name": "Beans",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 69,
+      "name": "Alfalfa",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 70,
+      "name": "Chestnut",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 71,
+      "name": "Walnut",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 72,
+      "name": "Pecan",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 73,
+      "name": "Hazelnut",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 74,
+      "name": "Macadamia",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 75,
+      "name": "Cashew",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 76,
+      "name": "Date Palm",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 77,
+      "name": "Jackfruit",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 78,
+      "name": "Durian",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 79,
+      "name": "Lychee",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 80,
+      "name": "Persimmon",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 81,
+      "name": "Mulberry",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 82,
+      "name": "Blackberry",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 83,
+      "name": "Blueberry",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 84,
+      "name": "Raspberry",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 85,
+      "name": "Gooseberry",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 86,
+      "name": "Aloe Vera",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 87,
+      "name": "Saffron",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 88,
+      "name": "Quinoa",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 89,
+      "name": "Amaranth",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 90,
+      "name": "Buckwheat",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 91,
+      "name": "Sesame",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 92,
+      "name": "Mustard",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 93,
+      "name": "Flax",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 94,
+      "name": "Chia",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 95,
+      "name": "Clove",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 96,
+      "name": "Nutmeg",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 97,
+      "name": "Cinnamon",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 98,
+      "name": "Ginseng",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 99,
+      "name": "Eucalyptus",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 100,
+      "name": "Tomato",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 101,
+      "name": "Potato",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 102,
+      "name": "Carrot",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 103,
+      "name": "Cabbage",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 104,
+      "name": "Lettuce",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 105,
+      "name": "Spinach",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 106,
+      "name": "Pepper",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 107,
+      "name": "Eggplant",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 108,
+      "name": "Corn",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 109,
+      "name": "Wheat",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 110,
+      "name": "Rice",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 111,
+      "name": "Barley",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 112,
+      "name": "Oats",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 113,
+      "name": "Soybean",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 114,
+      "name": "Peanut",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 115,
+      "name": "Sunflower",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 116,
+      "name": "Cotton",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 117,
+      "name": "Sugarcane",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 118,
+      "name": "Strawberry",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 119,
+      "name": "Apple",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 120,
+      "name": "Orange",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 121,
+      "name": "Banana",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 122,
+      "name": "Mango",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 123,
+      "name": "Papaya",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 124,
+      "name": "Grapes",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 125,
+      "name": "Pineapple",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 126,
+      "name": "Coconut",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 127,
+      "name": "Avocado",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 128,
+      "name": "Cherry",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 129,
+      "name": "Peach",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 130,
+      "name": "Plum",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 131,
+      "name": "Pear",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 132,
+      "name": "Pomegranate",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 133,
+      "name": "Watermelon",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 134,
+      "name": "Cantaloupe",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 135,
+      "name": "Guava",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 136,
+      "name": "Fig",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 137,
+      "name": "Olive",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 138,
+      "name": "Lemon",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 139,
+      "name": "Lime",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 140,
+      "name": "Coffee",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 141,
+      "name": "Tea",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 142,
+      "name": "Cocoa",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 143,
+      "name": "Vanilla",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 144,
+      "name": "Mint",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 145,
+      "name": "Basil",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 146,
+      "name": "Rosemary",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 147,
+      "name": "Thyme",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 148,
+      "name": "Oregano",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 149,
+      "name": "Lavender",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 150,
+      "name": "Jasmine",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 151,
+      "name": "Chili",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 152,
+      "name": "Garlic",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 153,
+      "name": "Onion",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 154,
+      "name": "Ginger",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 155,
+      "name": "Turmeric",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 156,
+      "name": "Beetroot",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 157,
+      "name": "Radish",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 158,
+      "name": "Pumpkin",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 159,
+      "name": "Zucchini",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 160,
+      "name": "Broccoli",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 161,
+      "name": "Cauliflower",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 162,
+      "name": "Brussels Sprout",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 163,
+      "name": "Asparagus",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 164,
+      "name": "Celery",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 165,
+      "name": "Okra",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 166,
+      "name": "Peas",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 167,
+      "name": "Beans",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 168,
+      "name": "Alfalfa",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 169,
+      "name": "Chestnut",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 170,
+      "name": "Walnut",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 171,
+      "name": "Pecan",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 172,
+      "name": "Hazelnut",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 173,
+      "name": "Macadamia",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 174,
+      "name": "Cashew",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 175,
+      "name": "Date Palm",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 176,
+      "name": "Jackfruit",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 177,
+      "name": "Durian",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 178,
+      "name": "Lychee",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 179,
+      "name": "Persimmon",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 180,
+      "name": "Mulberry",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 181,
+      "name": "Blackberry",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 182,
+      "name": "Blueberry",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 183,
+      "name": "Raspberry",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 184,
+      "name": "Gooseberry",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 185,
+      "name": "Aloe Vera",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 186,
+      "name": "Saffron",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 187,
+      "name": "Quinoa",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 188,
+      "name": "Amaranth",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 189,
+      "name": "Buckwheat",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 190,
+      "name": "Sesame",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 191,
+      "name": "Mustard",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 192,
+      "name": "Flax",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 193,
+      "name": "Chia",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 194,
+      "name": "Clove",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 195,
+      "name": "Nutmeg",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 196,
+      "name": "Cinnamon",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 197,
+      "name": "Ginseng",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 198,
+      "name": "Eucalyptus",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 199,
+      "name": "Tomato",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 200,
+      "name": "Potato",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 201,
+      "name": "Carrot",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 202,
+      "name": "Cabbage",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 203,
+      "name": "Lettuce",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 204,
+      "name": "Spinach",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 205,
+      "name": "Pepper",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 206,
+      "name": "Eggplant",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 207,
+      "name": "Corn",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 208,
+      "name": "Wheat",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 209,
+      "name": "Rice",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 210,
+      "name": "Barley",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 211,
+      "name": "Oats",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 212,
+      "name": "Soybean",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 213,
+      "name": "Peanut",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 214,
+      "name": "Sunflower",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 215,
+      "name": "Cotton",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 216,
+      "name": "Sugarcane",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 217,
+      "name": "Strawberry",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 218,
+      "name": "Apple",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 219,
+      "name": "Orange",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 220,
+      "name": "Banana",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 221,
+      "name": "Mango",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 222,
+      "name": "Papaya",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 223,
+      "name": "Grapes",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 224,
+      "name": "Pineapple",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 225,
+      "name": "Coconut",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 226,
+      "name": "Avocado",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 227,
+      "name": "Cherry",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 228,
+      "name": "Peach",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 229,
+      "name": "Plum",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 230,
+      "name": "Pear",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 231,
+      "name": "Pomegranate",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 232,
+      "name": "Watermelon",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 233,
+      "name": "Cantaloupe",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 234,
+      "name": "Guava",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 235,
+      "name": "Fig",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 236,
+      "name": "Olive",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 237,
+      "name": "Lemon",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 238,
+      "name": "Lime",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 239,
+      "name": "Coffee",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 240,
+      "name": "Tea",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 241,
+      "name": "Cocoa",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 242,
+      "name": "Vanilla",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 243,
+      "name": "Mint",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 244,
+      "name": "Basil",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 245,
+      "name": "Rosemary",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 246,
+      "name": "Thyme",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 247,
+      "name": "Oregano",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 248,
+      "name": "Lavender",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 249,
+      "name": "Jasmine",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 250,
+      "name": "Chili",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 251,
+      "name": "Garlic",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 252,
+      "name": "Onion",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 253,
+      "name": "Ginger",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 254,
+      "name": "Turmeric",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 255,
+      "name": "Beetroot",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 256,
+      "name": "Radish",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 257,
+      "name": "Pumpkin",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 258,
+      "name": "Zucchini",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 259,
+      "name": "Broccoli",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 260,
+      "name": "Cauliflower",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 261,
+      "name": "Brussels Sprout",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 262,
+      "name": "Asparagus",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 263,
+      "name": "Celery",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 264,
+      "name": "Okra",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 265,
+      "name": "Peas",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 266,
+      "name": "Beans",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 267,
+      "name": "Alfalfa",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 268,
+      "name": "Chestnut",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 269,
+      "name": "Walnut",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 270,
+      "name": "Pecan",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 271,
+      "name": "Hazelnut",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 272,
+      "name": "Macadamia",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 273,
+      "name": "Cashew",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 274,
+      "name": "Date Palm",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 275,
+      "name": "Jackfruit",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 276,
+      "name": "Durian",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 277,
+      "name": "Lychee",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 278,
+      "name": "Persimmon",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 279,
+      "name": "Mulberry",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 280,
+      "name": "Blackberry",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 281,
+      "name": "Blueberry",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 282,
+      "name": "Raspberry",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 283,
+      "name": "Gooseberry",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 284,
+      "name": "Aloe Vera",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 285,
+      "name": "Saffron",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 286,
+      "name": "Quinoa",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 287,
+      "name": "Amaranth",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 288,
+      "name": "Buckwheat",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 289,
+      "name": "Sesame",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 290,
+      "name": "Mustard",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 291,
+      "name": "Flax",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 292,
+      "name": "Chia",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 293,
+      "name": "Clove",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 294,
+      "name": "Nutmeg",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 295,
+      "name": "Cinnamon",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 296,
+      "name": "Ginseng",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 297,
+      "name": "Eucalyptus",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 298,
+      "name": "Tomato",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 299,
+      "name": "Potato",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 300,
+      "name": "Carrot",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 301,
+      "name": "Cabbage",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 302,
+      "name": "Lettuce",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 303,
+      "name": "Spinach",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 304,
+      "name": "Pepper",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 305,
+      "name": "Eggplant",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 306,
+      "name": "Corn",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 307,
+      "name": "Wheat",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 308,
+      "name": "Rice",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 309,
+      "name": "Barley",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 310,
+      "name": "Oats",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 311,
+      "name": "Soybean",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 312,
+      "name": "Peanut",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 313,
+      "name": "Sunflower",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 314,
+      "name": "Cotton",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 315,
+      "name": "Sugarcane",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 316,
+      "name": "Strawberry",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 317,
+      "name": "Apple",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 318,
+      "name": "Orange",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 319,
+      "name": "Banana",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 320,
+      "name": "Mango",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 321,
+      "name": "Papaya",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 322,
+      "name": "Grapes",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 323,
+      "name": "Pineapple",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 324,
+      "name": "Coconut",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 325,
+      "name": "Avocado",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 326,
+      "name": "Cherry",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 327,
+      "name": "Peach",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 328,
+      "name": "Plum",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 329,
+      "name": "Pear",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 330,
+      "name": "Pomegranate",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 331,
+      "name": "Watermelon",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 332,
+      "name": "Cantaloupe",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 333,
+      "name": "Guava",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 334,
+      "name": "Fig",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 335,
+      "name": "Olive",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 336,
+      "name": "Lemon",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 337,
+      "name": "Lime",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 338,
+      "name": "Coffee",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 339,
+      "name": "Tea",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 340,
+      "name": "Cocoa",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 341,
+      "name": "Vanilla",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 342,
+      "name": "Mint",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 343,
+      "name": "Basil",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 344,
+      "name": "Rosemary",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 345,
+      "name": "Thyme",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 346,
+      "name": "Oregano",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 347,
+      "name": "Lavender",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 348,
+      "name": "Jasmine",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 349,
+      "name": "Chili",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 350,
+      "name": "Garlic",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 351,
+      "name": "Onion",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 352,
+      "name": "Ginger",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 353,
+      "name": "Turmeric",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 354,
+      "name": "Beetroot",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 355,
+      "name": "Radish",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 356,
+      "name": "Pumpkin",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 357,
+      "name": "Zucchini",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 358,
+      "name": "Broccoli",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 359,
+      "name": "Cauliflower",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 360,
+      "name": "Brussels Sprout",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 361,
+      "name": "Asparagus",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 362,
+      "name": "Celery",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 363,
+      "name": "Okra",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 364,
+      "name": "Peas",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 365,
+      "name": "Beans",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 366,
+      "name": "Alfalfa",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 367,
+      "name": "Chestnut",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 368,
+      "name": "Walnut",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 369,
+      "name": "Pecan",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 370,
+      "name": "Hazelnut",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 371,
+      "name": "Macadamia",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 372,
+      "name": "Cashew",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 373,
+      "name": "Date Palm",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 374,
+      "name": "Jackfruit",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 375,
+      "name": "Durian",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 376,
+      "name": "Lychee",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 377,
+      "name": "Persimmon",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 378,
+      "name": "Mulberry",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 379,
+      "name": "Blackberry",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 380,
+      "name": "Blueberry",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 381,
+      "name": "Raspberry",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 382,
+      "name": "Gooseberry",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 383,
+      "name": "Aloe Vera",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 384,
+      "name": "Saffron",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 385,
+      "name": "Quinoa",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 386,
+      "name": "Amaranth",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 387,
+      "name": "Buckwheat",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 388,
+      "name": "Sesame",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 389,
+      "name": "Mustard",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 390,
+      "name": "Flax",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 391,
+      "name": "Chia",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 392,
+      "name": "Clove",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 393,
+      "name": "Nutmeg",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 394,
+      "name": "Cinnamon",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 395,
+      "name": "Ginseng",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 396,
+      "name": "Eucalyptus",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 397,
+      "name": "Tomato",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 398,
+      "name": "Potato",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 399,
+      "name": "Carrot",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 400,
+      "name": "Cabbage",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 401,
+      "name": "Lettuce",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 402,
+      "name": "Spinach",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 403,
+      "name": "Pepper",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 404,
+      "name": "Eggplant",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 405,
+      "name": "Corn",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 406,
+      "name": "Wheat",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 407,
+      "name": "Rice",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 408,
+      "name": "Barley",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 409,
+      "name": "Oats",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 410,
+      "name": "Soybean",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 411,
+      "name": "Peanut",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 412,
+      "name": "Sunflower",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 413,
+      "name": "Cotton",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 414,
+      "name": "Sugarcane",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 415,
+      "name": "Strawberry",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 416,
+      "name": "Apple",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 417,
+      "name": "Orange",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 418,
+      "name": "Banana",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 419,
+      "name": "Mango",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 420,
+      "name": "Papaya",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 421,
+      "name": "Grapes",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 422,
+      "name": "Pineapple",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 423,
+      "name": "Coconut",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 424,
+      "name": "Avocado",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 425,
+      "name": "Cherry",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 426,
+      "name": "Peach",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 427,
+      "name": "Plum",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 428,
+      "name": "Pear",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 429,
+      "name": "Pomegranate",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 430,
+      "name": "Watermelon",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 431,
+      "name": "Cantaloupe",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 432,
+      "name": "Guava",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 433,
+      "name": "Fig",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 434,
+      "name": "Olive",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 435,
+      "name": "Lemon",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 436,
+      "name": "Lime",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 437,
+      "name": "Coffee",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 438,
+      "name": "Tea",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 439,
+      "name": "Cocoa",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 440,
+      "name": "Vanilla",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 441,
+      "name": "Mint",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 442,
+      "name": "Basil",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 443,
+      "name": "Rosemary",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 444,
+      "name": "Thyme",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 445,
+      "name": "Oregano",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 446,
+      "name": "Lavender",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 447,
+      "name": "Jasmine",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 448,
+      "name": "Chili",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 449,
+      "name": "Garlic",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 450,
+      "name": "Onion",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 451,
+      "name": "Ginger",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 452,
+      "name": "Turmeric",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 453,
+      "name": "Beetroot",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 454,
+      "name": "Radish",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 455,
+      "name": "Pumpkin",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 456,
+      "name": "Zucchini",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 457,
+      "name": "Broccoli",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 458,
+      "name": "Cauliflower",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 459,
+      "name": "Brussels Sprout",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 460,
+      "name": "Asparagus",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 461,
+      "name": "Celery",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 462,
+      "name": "Okra",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 463,
+      "name": "Peas",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 464,
+      "name": "Beans",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 465,
+      "name": "Alfalfa",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 466,
+      "name": "Chestnut",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 467,
+      "name": "Walnut",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 468,
+      "name": "Pecan",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 469,
+      "name": "Hazelnut",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 470,
+      "name": "Macadamia",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 471,
+      "name": "Cashew",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 472,
+      "name": "Date Palm",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 473,
+      "name": "Jackfruit",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 474,
+      "name": "Durian",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 475,
+      "name": "Lychee",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 476,
+      "name": "Persimmon",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 477,
+      "name": "Mulberry",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 478,
+      "name": "Blackberry",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 479,
+      "name": "Blueberry",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 480,
+      "name": "Raspberry",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 481,
+      "name": "Gooseberry",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 482,
+      "name": "Aloe Vera",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 483,
+      "name": "Saffron",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 484,
+      "name": "Quinoa",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 485,
+      "name": "Amaranth",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 486,
+      "name": "Buckwheat",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 487,
+      "name": "Sesame",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 488,
+      "name": "Mustard",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 489,
+      "name": "Flax",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 490,
+      "name": "Chia",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 491,
+      "name": "Clove",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 492,
+      "name": "Nutmeg",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 493,
+      "name": "Cinnamon",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 494,
+      "name": "Ginseng",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 495,
+      "name": "Eucalyptus",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 496,
+      "name": "Tomato",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 497,
+      "name": "Potato",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 498,
+      "name": "Carrot",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 499,
+      "name": "Cabbage",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 500,
+      "name": "Lettuce",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 501,
+      "name": "Spinach",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 502,
+      "name": "Pepper",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 503,
+      "name": "Eggplant",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 504,
+      "name": "Corn",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 505,
+      "name": "Wheat",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 506,
+      "name": "Rice",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 507,
+      "name": "Barley",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 508,
+      "name": "Oats",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 509,
+      "name": "Soybean",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 510,
+      "name": "Peanut",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 511,
+      "name": "Sunflower",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 512,
+      "name": "Cotton",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 513,
+      "name": "Sugarcane",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 514,
+      "name": "Strawberry",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 515,
+      "name": "Apple",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 516,
+      "name": "Orange",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 517,
+      "name": "Banana",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 518,
+      "name": "Mango",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 519,
+      "name": "Papaya",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 520,
+      "name": "Grapes",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 521,
+      "name": "Pineapple",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 522,
+      "name": "Coconut",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 523,
+      "name": "Avocado",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 524,
+      "name": "Cherry",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 525,
+      "name": "Peach",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 526,
+      "name": "Plum",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 527,
+      "name": "Pear",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 528,
+      "name": "Pomegranate",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 529,
+      "name": "Watermelon",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 530,
+      "name": "Cantaloupe",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 531,
+      "name": "Guava",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 532,
+      "name": "Fig",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 533,
+      "name": "Olive",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 534,
+      "name": "Lemon",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 535,
+      "name": "Lime",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 536,
+      "name": "Coffee",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 537,
+      "name": "Tea",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 538,
+      "name": "Cocoa",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 539,
+      "name": "Vanilla",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 540,
+      "name": "Mint",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 541,
+      "name": "Basil",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 542,
+      "name": "Rosemary",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 543,
+      "name": "Thyme",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 544,
+      "name": "Oregano",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 545,
+      "name": "Lavender",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 546,
+      "name": "Jasmine",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 547,
+      "name": "Chili",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 548,
+      "name": "Garlic",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 549,
+      "name": "Onion",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 550,
+      "name": "Ginger",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 551,
+      "name": "Turmeric",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 552,
+      "name": "Beetroot",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 553,
+      "name": "Radish",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 554,
+      "name": "Pumpkin",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 555,
+      "name": "Zucchini",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 556,
+      "name": "Broccoli",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 557,
+      "name": "Cauliflower",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 558,
+      "name": "Brussels Sprout",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 559,
+      "name": "Asparagus",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 560,
+      "name": "Celery",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 561,
+      "name": "Okra",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 562,
+      "name": "Peas",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 563,
+      "name": "Beans",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 564,
+      "name": "Alfalfa",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 565,
+      "name": "Chestnut",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 566,
+      "name": "Walnut",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 567,
+      "name": "Pecan",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 568,
+      "name": "Hazelnut",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 569,
+      "name": "Macadamia",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 570,
+      "name": "Cashew",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 571,
+      "name": "Date Palm",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 572,
+      "name": "Jackfruit",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 573,
+      "name": "Durian",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 574,
+      "name": "Lychee",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 575,
+      "name": "Persimmon",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 576,
+      "name": "Mulberry",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 577,
+      "name": "Blackberry",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 578,
+      "name": "Blueberry",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 579,
+      "name": "Raspberry",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 580,
+      "name": "Gooseberry",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 581,
+      "name": "Aloe Vera",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 582,
+      "name": "Saffron",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 583,
+      "name": "Quinoa",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 584,
+      "name": "Amaranth",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 585,
+      "name": "Buckwheat",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 586,
+      "name": "Sesame",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 587,
+      "name": "Mustard",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 588,
+      "name": "Flax",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 589,
+      "name": "Chia",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 590,
+      "name": "Clove",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 591,
+      "name": "Nutmeg",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 592,
+      "name": "Cinnamon",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 593,
+      "name": "Ginseng",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 594,
+      "name": "Eucalyptus",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 595,
+      "name": "Tomato",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 596,
+      "name": "Potato",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 597,
+      "name": "Carrot",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 598,
+      "name": "Cabbage",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 599,
+      "name": "Lettuce",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 600,
+      "name": "Spinach",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 601,
+      "name": "Pepper",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 602,
+      "name": "Eggplant",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 603,
+      "name": "Corn",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 604,
+      "name": "Wheat",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 605,
+      "name": "Rice",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 606,
+      "name": "Barley",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 607,
+      "name": "Oats",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 608,
+      "name": "Soybean",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 609,
+      "name": "Peanut",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 610,
+      "name": "Sunflower",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 611,
+      "name": "Cotton",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 612,
+      "name": "Sugarcane",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 613,
+      "name": "Strawberry",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 614,
+      "name": "Apple",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 615,
+      "name": "Orange",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 616,
+      "name": "Banana",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 617,
+      "name": "Mango",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 618,
+      "name": "Papaya",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 619,
+      "name": "Grapes",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 620,
+      "name": "Pineapple",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 621,
+      "name": "Coconut",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 622,
+      "name": "Avocado",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 623,
+      "name": "Cherry",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 624,
+      "name": "Peach",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 625,
+      "name": "Plum",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 626,
+      "name": "Pear",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 627,
+      "name": "Pomegranate",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 628,
+      "name": "Watermelon",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 629,
+      "name": "Cantaloupe",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 630,
+      "name": "Guava",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 631,
+      "name": "Fig",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 632,
+      "name": "Olive",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 633,
+      "name": "Lemon",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 634,
+      "name": "Lime",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 635,
+      "name": "Coffee",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 636,
+      "name": "Tea",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 637,
+      "name": "Cocoa",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 638,
+      "name": "Vanilla",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 639,
+      "name": "Mint",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 640,
+      "name": "Basil",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 641,
+      "name": "Rosemary",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 642,
+      "name": "Thyme",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 643,
+      "name": "Oregano",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 644,
+      "name": "Lavender",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 645,
+      "name": "Jasmine",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 646,
+      "name": "Chili",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 647,
+      "name": "Garlic",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 648,
+      "name": "Onion",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 649,
+      "name": "Ginger",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 650,
+      "name": "Turmeric",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 651,
+      "name": "Beetroot",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 652,
+      "name": "Radish",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 653,
+      "name": "Pumpkin",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 654,
+      "name": "Zucchini",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 655,
+      "name": "Broccoli",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 656,
+      "name": "Cauliflower",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 657,
+      "name": "Brussels Sprout",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 658,
+      "name": "Asparagus",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 659,
+      "name": "Celery",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 660,
+      "name": "Okra",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 661,
+      "name": "Peas",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 662,
+      "name": "Beans",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 663,
+      "name": "Alfalfa",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 664,
+      "name": "Chestnut",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 665,
+      "name": "Walnut",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 666,
+      "name": "Pecan",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 667,
+      "name": "Hazelnut",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 668,
+      "name": "Macadamia",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 669,
+      "name": "Cashew",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 670,
+      "name": "Date Palm",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 671,
+      "name": "Jackfruit",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 672,
+      "name": "Durian",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 673,
+      "name": "Lychee",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 674,
+      "name": "Persimmon",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 675,
+      "name": "Mulberry",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 676,
+      "name": "Blackberry",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 677,
+      "name": "Blueberry",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 678,
+      "name": "Raspberry",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 679,
+      "name": "Gooseberry",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 680,
+      "name": "Aloe Vera",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 681,
+      "name": "Saffron",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 682,
+      "name": "Quinoa",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 683,
+      "name": "Amaranth",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 684,
+      "name": "Buckwheat",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 685,
+      "name": "Sesame",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 686,
+      "name": "Mustard",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 687,
+      "name": "Flax",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 688,
+      "name": "Chia",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 689,
+      "name": "Clove",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 690,
+      "name": "Nutmeg",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 691,
+      "name": "Cinnamon",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 692,
+      "name": "Ginseng",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 693,
+      "name": "Eucalyptus",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 694,
+      "name": "Tomato",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 695,
+      "name": "Potato",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 696,
+      "name": "Carrot",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 697,
+      "name": "Cabbage",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 698,
+      "name": "Lettuce",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 699,
+      "name": "Spinach",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 700,
+      "name": "Pepper",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 701,
+      "name": "Eggplant",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 702,
+      "name": "Corn",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 703,
+      "name": "Wheat",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 704,
+      "name": "Rice",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 705,
+      "name": "Barley",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 706,
+      "name": "Oats",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 707,
+      "name": "Soybean",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 708,
+      "name": "Peanut",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 709,
+      "name": "Sunflower",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 710,
+      "name": "Cotton",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 711,
+      "name": "Sugarcane",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 712,
+      "name": "Strawberry",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 713,
+      "name": "Apple",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 714,
+      "name": "Orange",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 715,
+      "name": "Banana",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 716,
+      "name": "Mango",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 717,
+      "name": "Papaya",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 718,
+      "name": "Grapes",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 719,
+      "name": "Pineapple",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 720,
+      "name": "Coconut",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 721,
+      "name": "Avocado",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 722,
+      "name": "Cherry",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 723,
+      "name": "Peach",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 724,
+      "name": "Plum",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 725,
+      "name": "Pear",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 726,
+      "name": "Pomegranate",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 727,
+      "name": "Watermelon",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 728,
+      "name": "Cantaloupe",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 729,
+      "name": "Guava",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 730,
+      "name": "Fig",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 731,
+      "name": "Olive",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 732,
+      "name": "Lemon",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 733,
+      "name": "Lime",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 734,
+      "name": "Coffee",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 735,
+      "name": "Tea",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 736,
+      "name": "Cocoa",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 737,
+      "name": "Vanilla",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 738,
+      "name": "Mint",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 739,
+      "name": "Basil",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 740,
+      "name": "Rosemary",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 741,
+      "name": "Thyme",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 742,
+      "name": "Oregano",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 743,
+      "name": "Lavender",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 744,
+      "name": "Jasmine",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 745,
+      "name": "Chili",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 746,
+      "name": "Garlic",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 747,
+      "name": "Onion",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 748,
+      "name": "Ginger",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 749,
+      "name": "Turmeric",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 750,
+      "name": "Beetroot",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 751,
+      "name": "Radish",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 752,
+      "name": "Pumpkin",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 753,
+      "name": "Zucchini",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 754,
+      "name": "Broccoli",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 755,
+      "name": "Cauliflower",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 756,
+      "name": "Brussels Sprout",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 757,
+      "name": "Asparagus",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 758,
+      "name": "Celery",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 759,
+      "name": "Okra",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 760,
+      "name": "Peas",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 761,
+      "name": "Beans",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 762,
+      "name": "Alfalfa",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 763,
+      "name": "Chestnut",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 764,
+      "name": "Walnut",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 765,
+      "name": "Pecan",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 766,
+      "name": "Hazelnut",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 767,
+      "name": "Macadamia",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 768,
+      "name": "Cashew",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 769,
+      "name": "Date Palm",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 770,
+      "name": "Jackfruit",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 771,
+      "name": "Durian",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 772,
+      "name": "Lychee",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 773,
+      "name": "Persimmon",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 774,
+      "name": "Mulberry",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 775,
+      "name": "Blackberry",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 776,
+      "name": "Blueberry",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 777,
+      "name": "Raspberry",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 778,
+      "name": "Gooseberry",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 779,
+      "name": "Aloe Vera",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 780,
+      "name": "Saffron",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 781,
+      "name": "Quinoa",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 782,
+      "name": "Amaranth",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 783,
+      "name": "Buckwheat",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 784,
+      "name": "Sesame",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 785,
+      "name": "Mustard",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 786,
+      "name": "Flax",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 787,
+      "name": "Chia",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 788,
+      "name": "Clove",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 789,
+      "name": "Nutmeg",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 790,
+      "name": "Cinnamon",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 791,
+      "name": "Ginseng",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 792,
+      "name": "Eucalyptus",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 793,
+      "name": "Tomato",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 794,
+      "name": "Potato",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 795,
+      "name": "Carrot",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 796,
+      "name": "Cabbage",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 797,
+      "name": "Lettuce",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 798,
+      "name": "Spinach",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 799,
+      "name": "Pepper",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 800,
+      "name": "Eggplant",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 801,
+      "name": "Corn",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 802,
+      "name": "Wheat",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 803,
+      "name": "Rice",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 804,
+      "name": "Barley",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 805,
+      "name": "Oats",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 806,
+      "name": "Soybean",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 807,
+      "name": "Peanut",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 808,
+      "name": "Sunflower",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 809,
+      "name": "Cotton",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 810,
+      "name": "Sugarcane",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 811,
+      "name": "Strawberry",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 812,
+      "name": "Apple",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 813,
+      "name": "Orange",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 814,
+      "name": "Banana",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 815,
+      "name": "Mango",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 816,
+      "name": "Papaya",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 817,
+      "name": "Grapes",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 818,
+      "name": "Pineapple",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 819,
+      "name": "Coconut",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 820,
+      "name": "Avocado",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 821,
+      "name": "Cherry",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 822,
+      "name": "Peach",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 823,
+      "name": "Plum",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 824,
+      "name": "Pear",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 825,
+      "name": "Pomegranate",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 826,
+      "name": "Watermelon",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 827,
+      "name": "Cantaloupe",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 828,
+      "name": "Guava",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 829,
+      "name": "Fig",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 830,
+      "name": "Olive",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 831,
+      "name": "Lemon",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 832,
+      "name": "Lime",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 833,
+      "name": "Coffee",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 834,
+      "name": "Tea",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 835,
+      "name": "Cocoa",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 836,
+      "name": "Vanilla",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 837,
+      "name": "Mint",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 838,
+      "name": "Basil",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 839,
+      "name": "Rosemary",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 840,
+      "name": "Thyme",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 841,
+      "name": "Oregano",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 842,
+      "name": "Lavender",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 843,
+      "name": "Jasmine",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 844,
+      "name": "Chili",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 845,
+      "name": "Garlic",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 846,
+      "name": "Onion",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 847,
+      "name": "Ginger",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 848,
+      "name": "Turmeric",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 849,
+      "name": "Beetroot",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 850,
+      "name": "Radish",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 851,
+      "name": "Pumpkin",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 852,
+      "name": "Zucchini",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 853,
+      "name": "Broccoli",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 854,
+      "name": "Cauliflower",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 855,
+      "name": "Brussels Sprout",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 856,
+      "name": "Asparagus",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 857,
+      "name": "Celery",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 858,
+      "name": "Okra",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 859,
+      "name": "Peas",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 860,
+      "name": "Beans",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 861,
+      "name": "Alfalfa",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 862,
+      "name": "Chestnut",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 863,
+      "name": "Walnut",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 864,
+      "name": "Pecan",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 865,
+      "name": "Hazelnut",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 866,
+      "name": "Macadamia",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 867,
+      "name": "Cashew",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 868,
+      "name": "Date Palm",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 869,
+      "name": "Jackfruit",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 870,
+      "name": "Durian",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 871,
+      "name": "Lychee",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 872,
+      "name": "Persimmon",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 873,
+      "name": "Mulberry",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 874,
+      "name": "Blackberry",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 875,
+      "name": "Blueberry",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 876,
+      "name": "Raspberry",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 877,
+      "name": "Gooseberry",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 878,
+      "name": "Aloe Vera",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 879,
+      "name": "Saffron",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 880,
+      "name": "Quinoa",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 881,
+      "name": "Amaranth",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 882,
+      "name": "Buckwheat",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 883,
+      "name": "Sesame",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 884,
+      "name": "Mustard",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 885,
+      "name": "Flax",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 886,
+      "name": "Chia",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 887,
+      "name": "Clove",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 888,
+      "name": "Nutmeg",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 889,
+      "name": "Cinnamon",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 890,
+      "name": "Ginseng",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 891,
+      "name": "Eucalyptus",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 892,
+      "name": "Tomato",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 893,
+      "name": "Potato",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 894,
+      "name": "Carrot",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 895,
+      "name": "Cabbage",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 896,
+      "name": "Lettuce",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 897,
+      "name": "Spinach",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 898,
+      "name": "Pepper",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 899,
+      "name": "Eggplant",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 900,
+      "name": "Corn",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 901,
+      "name": "Wheat",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 902,
+      "name": "Rice",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 903,
+      "name": "Barley",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 904,
+      "name": "Oats",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 905,
+      "name": "Soybean",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 906,
+      "name": "Peanut",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 907,
+      "name": "Sunflower",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 908,
+      "name": "Cotton",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 909,
+      "name": "Sugarcane",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 910,
+      "name": "Strawberry",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 911,
+      "name": "Apple",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 912,
+      "name": "Orange",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 913,
+      "name": "Banana",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 914,
+      "name": "Mango",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 915,
+      "name": "Papaya",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 916,
+      "name": "Grapes",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 917,
+      "name": "Pineapple",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 918,
+      "name": "Coconut",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 919,
+      "name": "Avocado",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 920,
+      "name": "Cherry",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 921,
+      "name": "Peach",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 922,
+      "name": "Plum",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 923,
+      "name": "Pear",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 924,
+      "name": "Pomegranate",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 925,
+      "name": "Watermelon",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 926,
+      "name": "Cantaloupe",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 927,
+      "name": "Guava",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 928,
+      "name": "Fig",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 929,
+      "name": "Olive",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 930,
+      "name": "Lemon",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 931,
+      "name": "Lime",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 932,
+      "name": "Coffee",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 933,
+      "name": "Tea",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 934,
+      "name": "Cocoa",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 935,
+      "name": "Vanilla",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 936,
+      "name": "Mint",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 937,
+      "name": "Basil",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 938,
+      "name": "Rosemary",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 939,
+      "name": "Thyme",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 940,
+      "name": "Oregano",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 941,
+      "name": "Lavender",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 942,
+      "name": "Jasmine",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 943,
+      "name": "Chili",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 944,
+      "name": "Garlic",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 945,
+      "name": "Onion",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 946,
+      "name": "Ginger",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 947,
+      "name": "Turmeric",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 948,
+      "name": "Beetroot",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 949,
+      "name": "Radish",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 950,
+      "name": "Pumpkin",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 951,
+      "name": "Zucchini",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 952,
+      "name": "Broccoli",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 953,
+      "name": "Cauliflower",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 954,
+      "name": "Brussels Sprout",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 955,
+      "name": "Asparagus",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 956,
+      "name": "Celery",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 957,
+      "name": "Okra",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 958,
+      "name": "Peas",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 959,
+      "name": "Beans",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 960,
+      "name": "Alfalfa",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 961,
+      "name": "Chestnut",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 962,
+      "name": "Walnut",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 963,
+      "name": "Pecan",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 964,
+      "name": "Hazelnut",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 965,
+      "name": "Macadamia",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 966,
+      "name": "Cashew",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 967,
+      "name": "Date Palm",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 968,
+      "name": "Jackfruit",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 969,
+      "name": "Durian",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 970,
+      "name": "Lychee",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 971,
+      "name": "Persimmon",
+      "minTemp": 15,
+      "maxTemp": 35,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 972,
+      "name": "Mulberry",
+      "minTemp": 16,
+      "maxTemp": 36,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 973,
+      "name": "Blackberry",
+      "minTemp": 17,
+      "maxTemp": 37,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 974,
+      "name": "Blueberry",
+      "minTemp": 18,
+      "maxTemp": 38,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 975,
+      "name": "Raspberry",
+      "minTemp": 19,
+      "maxTemp": 39,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 976,
+      "name": "Gooseberry",
+      "minTemp": 20,
+      "maxTemp": 40,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 977,
+      "name": "Aloe Vera",
+      "minTemp": 21,
+      "maxTemp": 41,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 978,
+      "name": "Saffron",
+      "minTemp": 22,
+      "maxTemp": 42,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  },
+  {
+      "no": 979,
+      "name": "Quinoa",
+      "minTemp": 23,
+      "maxTemp": 43,
+      "bestPlantingMonths": [
+          "July",
+          "August",
+          "September"
+      ]
+  },
+  {
+      "no": 980,
+      "name": "Amaranth",
+      "minTemp": 24,
+      "maxTemp": 44,
+      "bestPlantingMonths": [
+          "August",
+          "September",
+          "October"
+      ]
+  },
+  {
+      "no": 981,
+      "name": "Buckwheat",
+      "minTemp": 5,
+      "maxTemp": 25,
+      "bestPlantingMonths": [
+          "September",
+          "October",
+          "November"
+      ]
+  },
+  {
+      "no": 982,
+      "name": "Sesame",
+      "minTemp": 6,
+      "maxTemp": 26,
+      "bestPlantingMonths": [
+          "October",
+          "November",
+          "December"
+      ]
+  },
+  {
+      "no": 983,
+      "name": "Mustard",
+      "minTemp": 7,
+      "maxTemp": 27,
+      "bestPlantingMonths": [
+          "November",
+          "December",
+          "January"
+      ]
+  },
+  {
+      "no": 984,
+      "name": "Flax",
+      "minTemp": 8,
+      "maxTemp": 28,
+      "bestPlantingMonths": [
+          "December",
+          "January",
+          "February"
+      ]
+  },
+  {
+      "no": 985,
+      "name": "Chia",
+      "minTemp": 9,
+      "maxTemp": 29,
+      "bestPlantingMonths": [
+          "January",
+          "February",
+          "March"
+      ]
+  },
+  {
+      "no": 986,
+      "name": "Clove",
+      "minTemp": 10,
+      "maxTemp": 30,
+      "bestPlantingMonths": [
+          "February",
+          "March",
+          "April"
+      ]
+  },
+  {
+      "no": 987,
+      "name": "Nutmeg",
+      "minTemp": 11,
+      "maxTemp": 31,
+      "bestPlantingMonths": [
+          "March",
+          "April",
+          "May"
+      ]
+  },
+  {
+      "no": 988,
+      "name": "Cinnamon",
+      "minTemp": 12,
+      "maxTemp": 32,
+      "bestPlantingMonths": [
+          "April",
+          "May",
+          "June"
+      ]
+  },
+  {
+      "no": 989,
+      "name": "Ginseng",
+      "minTemp": 13,
+      "maxTemp": 33,
+      "bestPlantingMonths": [
+          "May",
+          "June",
+          "July"
+      ]
+  },
+  {
+      "no": 990,
+      "name": "Eucalyptus",
+      "minTemp": 14,
+      "maxTemp": 34,
+      "bestPlantingMonths": [
+          "June",
+          "July",
+          "August"
+      ]
+  }
+]

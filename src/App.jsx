@@ -1,16 +1,19 @@
+import { Navigate, Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import styled from "styled-components";
-import Navbar from "./components/Navbar";
+import Dashboard from "./components/Dashboard";
 import Hero from "./components/Hero";
-import Who from "./components/Who";
-import Works from "./components/Works";
-import Contact from "./components/Contact";
+import Navbar from "./components/Navbar";
 
 const AppContainer = styled.div`
   display: flex;
   flex-direction: column;
   height: 100vh; /* Full screen height */
   overflow: hidden; /* Prevent overflow issues */
-  background-color:#008000;
+  background: url("https://images.unsplash.com/photo-1501854140801-50d01698950b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
 `;
 
 const NavbarWrapper = styled.div`
@@ -29,17 +32,20 @@ const ContentWrapper = styled.div`
 
 function App() {
   return (
-    <AppContainer>
-      <NavbarWrapper>
-        <Navbar />
-      </NavbarWrapper>
-      <ContentWrapper>
-        <Hero />
-        {/* <Who />
-        <Works />
-        <Contact /> */}
-      </ContentWrapper>
-    </AppContainer>
+    <Router>
+      <AppContainer>
+        <NavbarWrapper>
+          <Navbar />
+        </NavbarWrapper>
+        <ContentWrapper>
+          <Routes>
+            <Route path="/" element={<Hero />} />
+            <Route path="/dashboard" element={<Dashboard />} />
+            <Route path="*" element={<Navigate to="/" replace />} />
+          </Routes>
+        </ContentWrapper>
+      </AppContainer>
+    </Router>
   );
 }
 
