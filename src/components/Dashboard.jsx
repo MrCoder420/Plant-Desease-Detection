@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 
 // Components
-import CropTemperatureWarnings from './CropTemperatureWarnings'; // Example component
-import PlantSelection from './PlantSelection'; // Example component
-import SprayingSchedule from './SprayingSchedule'; // Example component
+import CropTemperatureWarnings from './CropTemperatureWarnings';
+import PlantSelection from './PlantSelection';
+import SprayingSchedule from './SprayingSchedule';
 
 const App = () => {
   const [activeComponent, setActiveComponent] = useState(null);
@@ -107,23 +107,19 @@ const App = () => {
       borderBottomStyle: 'solid',
       borderBottomColor: '#3498db',
     },
-    cardHover: {
-      transform: 'translateY(-5px)',
-      boxShadow: '0 15px 40px rgba(0, 0, 0, 0.2)',
-    },
     modalBackdrop: {
       position: 'fixed',
       top: 0,
       left: 0,
       width: '100%',
       height: '100%',
-      backgroundColor: 'rgba(0, 0, 0, 0.5)', // Semi-transparent black background
+      backgroundColor: 'rgba(0, 0, 0, 0.5)',
       display: 'flex',
       justifyContent: 'center',
       alignItems: 'center',
       zIndex: 1000,
-      backdropFilter: 'blur(5px)', // Apply blur effect to background
-      cursor: 'pointer', // Change cursor to pointer to indicate interactivity
+      backdropFilter: 'blur(5px)',
+      cursor: 'pointer',
     },
     modalContent: {
       backgroundColor: '#fff',
@@ -191,11 +187,11 @@ const App = () => {
       {activeComponent && (
         <div
           style={styles.modalBackdrop}
-          onClick={handleCloseModal} // Close the modal if backdrop is clicked
+          onClick={handleCloseModal}
         >
           <div
             style={styles.modalContent}
-            onClick={(e) => e.stopPropagation()} // Prevent click event from propagating to the backdrop
+            onClick={(e) => e.stopPropagation()}
           >
             {activeComponent === 'SprayingSchedule' && <SprayingSchedule lat={19.9622} lon={73.8684} />}
             {activeComponent === 'PlantSelection' && <PlantSelection lat={19.9622} lon={73.8684} />}

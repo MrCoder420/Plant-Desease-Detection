@@ -9,7 +9,7 @@ const Section = styled.div`
   top: 0;
   width: 100%;
   z-index: 100;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(10px);
 `;
 
@@ -19,10 +19,10 @@ const Container = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 5px 20px;
+  padding: 10px 20px;
 
   @media only screen and (max-width: 768px) {
-    padding: 5px;
+    padding: 10px;
   }
 `;
 
@@ -30,11 +30,19 @@ const Links = styled.div`
   display: flex;
   align-items: center;
   gap: 50px;
+
+  @media only screen and (max-width: 768px) {
+    gap: 20px;
+  }
 `;
 
 const Logo = styled.img`
   height: 50px;
-  border-radius:50%;
+  border-radius: 50%;
+  
+  @media only screen and (max-width: 768px) {
+    height: 40px;
+  }
 `;
 
 const DesktopList = styled.ul`
@@ -49,55 +57,80 @@ const DesktopList = styled.ul`
 
 const ListItem = styled.li`
   cursor: pointer;
-  padding: 5px 10px;
+  padding: 8px 15px;
   transition: all 0.3s ease;
   color: white;
+  font-size: 16px;
 
   &:hover {
     background-color: rgba(255, 255, 255, 0.1);
     border-radius: 5px;
+  }
+
+  @media only screen and (max-width: 768px) {
+    padding: 5px 10px;
+    font-size: 14px;
   }
 `;
 
 const DropdownContainer = styled.div`
   position: relative;
 
-  @media only screen and (min-width: 768px) {
+  @media only screen and (min-width: 769px) {
     display: none;
   }
 `;
 
 const DropdownButton = styled.div`
-  width: 35px;
-  height: 35px;
-  background-color: rgba(0, 0, 0, 0);
-  color:white;
+  width: 40px;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 50%;
   cursor: pointer;
+  font-size: 24px;
+  transition: all 0.3s ease;
+
+  &:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+  }
 `;
 
 const DropdownList = styled.ul`
   position: absolute;
   top: 50px;
   right: 0;
-  background-color: rgba(5, 151, 56, 0.7);
+  background-color: rgba(5, 151, 56, 0.9);
   border-radius: 8px;
   list-style: none;
   padding: 10px 0;
   display: ${(props) => (props.open ? "block" : "none")};
   min-width: 200px;
-  box-shadow: 0 4px 6px rgba(186, 9, 251, 0.3);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   z-index: 101;
+  animation: slideDown 0.3s ease;
+
+  @keyframes slideDown {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
 `;
 
 const DropdownListItem = styled.li`
-  padding: 10px 20px;
+  padding: 12px 20px;
   cursor: pointer;
   color: white;
   transition: background-color 0.3s ease;
+  font-size: 16px;
 
   &:hover {
     background-color: rgba(255, 255, 255, 0.1);
@@ -161,10 +194,10 @@ const Navbar = () => {
     <Section>
       <Container>
         <Links>
-          <Logo src="./img/logo.jpg" />
+          <Logo src="./img/logo.jpg" alt="Logo" />
           <DesktopList>
             <ListItem onClick={() => handleNavigation('/')}>Home</ListItem>
-            <ListItem onClick={() => handleNavigation('/dashboard')}>Dashboard</ListItem>
+            <ListItem onClick={() => handleNavigation('/dashboard')}>Crop Tool</ListItem>
           </DesktopList>
         </Links>
         <Icons>
@@ -177,7 +210,7 @@ const Navbar = () => {
             </DropdownButton>
             <DropdownList open={dropdownOpen}>
               <DropdownListItem onClick={() => handleNavigation('/')}>Home</DropdownListItem>
-              <DropdownListItem onClick={() => handleNavigation('/dashboard')}>Dashboard</DropdownListItem>
+              <DropdownListItem onClick={() => handleNavigation('/dashboard')}>Crop Tool</DropdownListItem>
             </DropdownList>
           </DropdownContainer>
         </Icons>
