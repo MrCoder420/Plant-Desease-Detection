@@ -1,5 +1,6 @@
 import { Navigate, Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import styled from "styled-components";
+import ChatBot from "./components/ChatBot";
 import Dashboard from "./components/Dashboard";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
@@ -41,6 +42,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Hero />} />
             <Route path="/dashboard" element={<Dashboard />} />
+            <Route path="/chatbot" element={<ChatBot />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </ContentWrapper>

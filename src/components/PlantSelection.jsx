@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 
 const PlantSelection = ({ lat, lon }) => {
   const [plants, setPlants] = useState([]);
@@ -54,29 +54,57 @@ const PlantSelection = ({ lat, lon }) => {
     setShowDropdown(false);
   };
 
+  const isCurrentMonthGoodForPlanting = (plant) => {
+    const currentMonth = new Date().getMonth() + 1; // getMonth() returns 0-11
+    const monthNames = {
+      1: 'January',
+      2: 'February',
+      3: 'March',
+      4: 'April',
+      5: 'May',
+      6: 'June',
+      7: 'July',
+      8: 'August',
+      9: 'September',
+      10: 'October',
+      11: 'November',
+      12: 'December'
+    };
+    
+    // Convert current month number to month name
+    const currentMonthName = monthNames[currentMonth];
+    
+    // Check if current month name is in the best planting months array
+    return plant.bestPlantingMonths.includes(currentMonthName);
+  };
+
   const checkPlantingConditions = (weatherData) => {
     if (!selectedPlant || !weatherData) return;
 
     const temp = weatherData.temp;
+    const isGoodMonth = isCurrentMonthGoodForPlanting(selectedPlant);
     let message, status;
 
-    if (temp >= selectedPlant.minTemp && temp <= selectedPlant.maxTemp) {
-      message = `✅ Suitable for planting ${selectedPlant.name} today!`;
+    if (isGoodMonth) {
+      message = `✅ Good time to plant ${selectedPlant.name}!`;
       status = "good";
-    } else if (temp < selectedPlant.minTemp) {
-      message = `⚠️ Too cold for ${selectedPlant.name}. Minimum needed: ${selectedPlant.minTemp}°C.`;
-      status = "cold";
     } else {
-      message = `⚠️ Too hot for ${selectedPlant.name}. Maximum allowed: ${selectedPlant.maxTemp}°C.`;
-      status = "hot";
+      message = `❌ Not the right time to plant ${selectedPlant.name}. Best planting months are: ${selectedPlant.bestPlantingMonths.join(", ")}.`;
+      status = "bad";
     }
 
-    setResult({ message, status });
+    setResult({ 
+      message, 
+      status,
+      temperature: temp,
+      isGoodMonth
+    });
   };
 
   return (
     <div style={styles.container}>
       <h1 style={styles.title}>🌱 Planting Guide</h1>
+      <p style={styles.location}>Location: {lat.toFixed(4)}, {lon.toFixed(4)}</p>
 
       <div style={styles.searchWrapper}>
         <label style={styles.label}>Select a Plant:</label>
@@ -115,7 +143,7 @@ const PlantSelection = ({ lat, lon }) => {
           onMouseEnter={(e) => e.target.style.backgroundColor = '#2ecc71'}
           onMouseLeave={(e) => e.target.style.backgroundColor = '#27ae60'}
         >
-          Check Weather
+          Check Conditions
         </button>
       )}
 
@@ -123,7 +151,11 @@ const PlantSelection = ({ lat, lon }) => {
         <div style={styles.resultBox(result.status)}>
           <h2>{selectedPlant.name} 🌾</h2>
           <p><strong>Best Planting Months:</strong> {selectedPlant.bestPlantingMonths.join(", ")}</p>
+          <p><strong>Current Temperature:</strong> {result.temperature.toFixed(1)}°C</p>
           <p>{result.message}</p>
+          {result.isGoodMonth && (
+            <p style={styles.tip}>💡 This is a good month for planting {selectedPlant.name}!</p>
+          )}
         </div>
       )}
     </div>
@@ -139,7 +171,7 @@ const styles = {
     borderRadius: '20px',
     width: '80%',
     margin: 'auto',
-    marginTop:'25px',
+    marginTop: '25px',
     boxShadow: '0px 20px 40px rgba(0, 0, 0, 0.15)',
     maxWidth: '700px',
     transition: 'all 0.5s ease-in-out',
@@ -154,6 +186,11 @@ const styles = {
     textTransform: 'uppercase',
     letterSpacing: '1.5px',
     animation: 'bounceIn 1s ease-in-out',
+  },
+  location: {
+    fontSize: '16px',
+    color: '#666',
+    marginBottom: '30px',
   },
   searchWrapper: {
     position: 'relative',
@@ -225,14 +262,28 @@ const styles = {
     padding: '25px',
     borderRadius: '15px',
     textAlign: 'center',
-    backgroundColor: status === "good" ? "#d4edda" : status === "cold" ? "#cce5ff" : "#f8d7da",
-    color: status === "good" ? "#155724" : status === "cold" ? "#004085" : "#721c24",
+    backgroundColor: status === "good" ? "#d4edda" : 
+                    status === "cold" ? "#cce5ff" : 
+                    status === "hot" ? "#f8d7da" : "#fff3cd",
+    color: status === "good" ? "#155724" : 
+           status === "cold" ? "#004085" : 
+           status === "hot" ? "#721c24" : "#856404",
     fontWeight: '600',
     boxShadow: '0px 5px 15px rgba(0, 0, 0, 0.1)',
     transition: 'all 0.3s ease-in-out',
     border: '2px solid',
-    borderColor: status === "good" ? "#27ae60" : status === "cold" ? "#3498db" : "#e74c3c",
+    borderColor: status === "good" ? "#27ae60" : 
+                status === "cold" ? "#3498db" : 
+                status === "hot" ? "#e74c3c" : "#ffc107",
   }),
+  tip: {
+    marginTop: '15px',
+    padding: '10px',
+    backgroundColor: 'rgba(39, 174, 96, 0.1)',
+    borderRadius: '8px',
+    color: '#27ae60',
+    fontWeight: '500',
+  },
 };
 
 export default PlantSelection;

@@ -4,7 +4,7 @@ import json
 # API URL and headers
 url = "https://openrouter.ai/api/v1/chat/completions"
 headers = {
-    "Authorization": "Bearer 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",
+    "Authorization": "Bearer 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",
     "Content-Type": "application/json",
 }
 

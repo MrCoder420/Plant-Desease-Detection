@@ -198,6 +198,7 @@ const Navbar = () => {
           <DesktopList>
             <ListItem onClick={() => handleNavigation('/')}>Home</ListItem>
             <ListItem onClick={() => handleNavigation('/dashboard')}>Crop Tool</ListItem>
+            <ListItem onClick={() => handleNavigation('/chatbot')}>Plant Assistant</ListItem>
           </DesktopList>
         </Links>
         <Icons>
@@ -211,6 +212,7 @@ const Navbar = () => {
             <DropdownList open={dropdownOpen}>
               <DropdownListItem onClick={() => handleNavigation('/')}>Home</DropdownListItem>
               <DropdownListItem onClick={() => handleNavigation('/dashboard')}>Crop Tool</DropdownListItem>
+              <DropdownListItem onClick={() => handleNavigation('/chatbot')}>Plant Assistant</DropdownListItem>
             </DropdownList>
           </DropdownContainer>
         </Icons>

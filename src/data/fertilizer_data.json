@@ -1,0 +1,44 @@
+{
+  "plants": [
+    {
+      "name": "Rice",
+      "nutrients": {
+        "N": 120,
+        "P": 60,
+        "K": 60
+      }
+    },
+    {
+      "name": "Wheat",
+      "nutrients": {
+        "N": 100,
+        "P": 50,
+        "K": 50
+      }
+    },
+    {
+      "name": "Maize",
+      "nutrients": {
+        "N": 150,
+        "P": 75,
+        "K": 75
+      }
+    },
+    {
+      "name": "Cotton",
+      "nutrients": {
+        "N": 100,
+        "P": 50,
+        "K": 50
+      }
+    },
+    {
+      "name": "Sugarcane",
+      "nutrients": {
+        "N": 200,
+        "P": 100,
+        "K": 100
+      }
+    }
+  ]
+} 

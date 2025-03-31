@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 
 const SprayingSchedule = ({ lat, lon }) => {
   const [weatherData, setWeatherData] = useState([]);
@@ -17,15 +17,20 @@ const SprayingSchedule = ({ lat, lon }) => {
     }
   };
 
-  // Determine the quality of spraying based on weather conditions
+  // Determine the quality of spraying based on wind speed
   const getSprayingQuality = (temp, humidity, windSpeed, cloudCover) => {
-    if (cloudCover === 0 && humidity < 60 && windSpeed < 5) {
-      return 'Good'; // Ideal weather for spraying
+    // Convert wind speed from m/s to km/h (1 m/s = 3.6 km/h)
+    const windSpeedKmh = windSpeed * 3.6;
+
+    if (windSpeedKmh < 3) {
+      return 'Bad'; // Too low wind speed - suboptimal conditions
+    } else if (windSpeedKmh >= 3 && windSpeedKmh <= 10) {
+      return 'Good'; // Ideal wind speed range for spraying
+    } else if (windSpeedKmh > 10 && windSpeedKmh <= 15) {
+      return 'Moderate'; // Caution required - moderate conditions
+    } else {
+      return 'Bad'; // Too high wind speed - not recommended
     }
-    if (cloudCover < 50 && humidity >= 60 && windSpeed < 7) {
-      return 'Moderate'; // Mild conditions
-    }
-    return 'Bad'; // Unfavorable conditions
   };
 
   useEffect(() => {

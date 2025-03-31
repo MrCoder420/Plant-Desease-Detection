@@ -1,7 +1,6 @@
 import axios from "axios";
 import React, { useState } from "react";
 import styled from "styled-components";
-import TreatmentSteps from "./TreatmentSteps";
 
 const Section = styled.div`
   height: 100vh;
@@ -188,55 +187,12 @@ const ModalContent = styled.p`
   }
 `;
 
-const ButtonGroup = styled.div`
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-`;
-
-const TreatmentButton = styled.button`
-  background-color: #004d04;
-  color: white;
-  font-weight: 500;
-  padding: 12px 24px;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  font-size: 16px;
-  transition: all 0.3s ease;
-  width: 200px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-
-  &:hover {
-    background-color: #008000;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  }
-
-  &:disabled {
-    background-color: #aaa;
-    cursor: not-allowed;
-    transform: none;
-    box-shadow: none;
-  }
-
-  @media only screen and (max-width: 768px) {
-    padding: 10px 20px;
-    font-size: 14px;
-    width: 180px;
-  }
-`;
-
 const Hero = () => {
   const [selectedFile, setSelectedFile] = useState(null);
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState(null);
   const [location, setLocation] = useState(null);
   const [locationError, setLocationError] = useState(null);
-  const [showTreatment, setShowTreatment] = useState(false);
-  const [treatmentData, setTreatmentData] = useState(null);
-  const [treatmentLoading, setTreatmentLoading] = useState(false);
 
   const getLocation = () => {
     if (!navigator.geolocation) {
@@ -262,43 +218,6 @@ const Hero = () => {
     setSelectedFile(event.target.files[0]);
     // Get location when file is selected
     getLocation();
-  };
-
-  const fetchTreatmentData = async (plantName, diseaseName) => {
-    setTreatmentLoading(true);
-    try {
-      const response = await axios.post('https://openrouter.ai/api/v1/chat/completions', {
-        model: "qwen/qwen2.5-vl-3b-instruct:free",
-        messages: [
-          {
-            role: "user",
-            content: `Given the following information, provide a detailed treatment plan for the plant:
-
-            - **Plant Name**: ${plantName}
-            - **Disease Name**: ${diseaseName}
-
-            The response should include:
-            1. Treatment steps with short titles (e.g., 'Prune infected areas', 'Apply fungicide').
-            2. Preventive measures for future seasons.
-            3. Maintenance instructions, such as frequency of monitoring.
-            4. Any additional notes like warnings or best practices.
-
-            Format the response in a clear, structured way with sections for each part.`
-          }
-        ]
-      }, {
-        headers: {
-          'Authorization': 'Bearer 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',
-          'Content-Type': 'application/json'
-        }
-      });
-
-      setTreatmentData(response.data.choices[0].message.content);
-    } catch (error) {
-      console.error('Error fetching treatment data:', error);
-    } finally {
-      setTreatmentLoading(false);
-    }
   };
 
   const uploadImage = async () => {
@@ -328,13 +247,9 @@ const Hero = () => {
 
       if (response.data) {
         setResult(response.data);
-        
-        // Automatically fetch treatment data when disease is detected
-        const plantName = response.data.result.crop.suggestions[0].name;
-        const diseaseName = response.data.result.disease.suggestions[0].name;
-        if (plantName && diseaseName) {
-          fetchTreatmentData(plantName, diseaseName);
-        }
+        console.log("Location:", location);
+        console.log("Plant:", response.data.result.crop.suggestions[0].name);
+        console.log("Disease:", response.data.result.disease.suggestions[0].name);
       } else {
         alert("No result received. Please try again.");
       }
@@ -344,10 +259,6 @@ const Hero = () => {
     }
 
     setLoading(false);
-  };
-
-  const handleTreatmentClick = () => {
-    setShowTreatment(true);
   };
 
   return (
@@ -375,25 +286,8 @@ const Hero = () => {
             <ModalContent><strong>Plant Name:</strong> {result.result.crop.suggestions[0].name || "Unknown"}</ModalContent>
             <ModalContent><strong>Disease:</strong> {result.result.disease.suggestions[0].name || "Healthy"}</ModalContent>
             <ModalContent><strong>Location:</strong> {location.latitude.toFixed(6)}, {location.longitude.toFixed(6)}</ModalContent>
-            <ButtonGroup>
-              <Button onClick={() => setResult(null)}>Close</Button>
-              <TreatmentButton 
-                onClick={handleTreatmentClick}
-                disabled={treatmentLoading}
-              >
-                {treatmentLoading ? "Loading Treatment..." : "Get Treatment"}
-              </TreatmentButton>
-            </ButtonGroup>
+            <Button onClick={() => setResult(null)}>Get Solution</Button>
           </Modal>
-        )}
-
-        {showTreatment && result && treatmentData && (
-          <TreatmentSteps 
-            plantName={result.result.crop.suggestions[0].name}
-            diseaseName={result.result.disease.suggestions[0].name}
-            treatmentData={treatmentData}
-            onClose={() => setShowTreatment(false)}
-          />
         )}
       </Section>
     </>

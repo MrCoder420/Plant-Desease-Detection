@@ -1,0 +1,44 @@
+{
+  "plants": [
+    {
+      "name": "Tomato",
+      "fertilizer_requirements": {
+        "Acre": { "N": 56.7, "P": 22.7, "K": 37.6 },
+        "Hectare": { "N": 140.2, "P": 56.2, "K": 93.0 },
+        "Gunta": { "N": 1.42, "P": 0.57, "K": 0.93 }
+      }
+    },
+    {
+      "name": "Potato",
+      "fertilizer_requirements": {
+        "Acre": { "N": 112.1, "P": 101.2, "K": 165.8 },
+        "Hectare": { "N": 280.3, "P": 252.9, "K": 414.5 },
+        "Gunta": { "N": 2.80, "P": 2.53, "K": 4.14 }
+      }
+    },
+    {
+      "name": "Wheat",
+      "fertilizer_requirements": {
+        "Acre": { "N": 67.3, "P": 33.6, "K": 39.2 },
+        "Hectare": { "N": 168.2, "P": 84.0, "K": 98.0 },
+        "Gunta": { "N": 1.68, "P": 0.84, "K": 0.98 }
+      }
+    },
+    {
+      "name": "Rice",
+      "fertilizer_requirements": {
+        "Acre": { "N": 89.6, "P": 44.8, "K": 50.4 },
+        "Hectare": { "N": 224.0, "P": 112.0, "K": 126.0 },
+        "Gunta": { "N": 2.24, "P": 1.12, "K": 1.26 }
+      }
+    },
+    {
+      "name": "Maize",
+      "fertilizer_requirements": {
+        "Acre": { "N": 100.8, "P": 50.4, "K": 56.0 },
+        "Hectare": { "N": 252.0, "P": 126.0, "K": 140.0 },
+        "Gunta": { "N": 2.52, "P": 1.26, "K": 1.40 }
+      }
+    }
+  ]
+} 
