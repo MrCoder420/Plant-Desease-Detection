@@ -345,7 +345,7 @@ const FertilizerCalculator = () => {
     
     if (selectedValue && fertilizerData?.plants) {
       const plant = fertilizerData.plants.find(p => p.name === selectedValue);
-      if (plant) {
+    if (plant) {
         const baseValues = plant.fertilizer_requirements[selectedUnit];
         setNutrientValues({
           N: (baseValues.N * plotSize).toFixed(2),
@@ -582,63 +582,63 @@ const FertilizerCalculator = () => {
               Calculate Fertilizer Combinations
             </CalculateButton>
 
-            {calculatedValues && (
-              <CalculationsContainer>
-                <CalculationBox>
-                  <CalculationTitle>{calculatedValues.combination1.name}</CalculationTitle>
-                  <CalculationGrid>
-                    <CalculationItem>
-                      <CalculationLabel>UREA</CalculationLabel>
-                      <CalculationValue>{calculatedValues.combination1.UREA} kg</CalculationValue>
-                    </CalculationItem>
-                    <CalculationItem>
-                      <CalculationLabel>TSP</CalculationLabel>
-                      <CalculationValue>{calculatedValues.combination1.TSP} kg</CalculationValue>
-                    </CalculationItem>
-                    <CalculationItem>
-                      <CalculationLabel>MOP</CalculationLabel>
-                      <CalculationValue>{calculatedValues.combination1.MOP} kg</CalculationValue>
-                    </CalculationItem>
-                  </CalculationGrid>
-                </CalculationBox>
+      {calculatedValues && (
+        <CalculationsContainer>
+          <CalculationBox>
+            <CalculationTitle>{calculatedValues.combination1.name}</CalculationTitle>
+            <CalculationGrid>
+              <CalculationItem>
+                <CalculationLabel>UREA</CalculationLabel>
+                <CalculationValue>{calculatedValues.combination1.UREA} kg</CalculationValue>
+              </CalculationItem>
+              <CalculationItem>
+                <CalculationLabel>TSP</CalculationLabel>
+                <CalculationValue>{calculatedValues.combination1.TSP} kg</CalculationValue>
+              </CalculationItem>
+              <CalculationItem>
+                <CalculationLabel>MOP</CalculationLabel>
+                <CalculationValue>{calculatedValues.combination1.MOP} kg</CalculationValue>
+              </CalculationItem>
+            </CalculationGrid>
+          </CalculationBox>
 
-                <CalculationBox>
-                  <CalculationTitle>{calculatedValues.combination2.name}</CalculationTitle>
-                  <CalculationGrid>
-                    <CalculationItem>
-                      <CalculationLabel>DAP</CalculationLabel>
-                      <CalculationValue>{calculatedValues.combination2.DAP} kg</CalculationValue>
-                    </CalculationItem>
-                    <CalculationItem>
-                      <CalculationLabel>UREA</CalculationLabel>
-                      <CalculationValue>{calculatedValues.combination2.UREA} kg</CalculationValue>
-                    </CalculationItem>
-                    <CalculationItem>
-                      <CalculationLabel>MOP</CalculationLabel>
-                      <CalculationValue>{calculatedValues.combination2.MOP} kg</CalculationValue>
-                    </CalculationItem>
-                  </CalculationGrid>
-                </CalculationBox>
+          <CalculationBox>
+            <CalculationTitle>{calculatedValues.combination2.name}</CalculationTitle>
+            <CalculationGrid>
+              <CalculationItem>
+                <CalculationLabel>DAP</CalculationLabel>
+                <CalculationValue>{calculatedValues.combination2.DAP} kg</CalculationValue>
+              </CalculationItem>
+              <CalculationItem>
+                <CalculationLabel>UREA</CalculationLabel>
+                <CalculationValue>{calculatedValues.combination2.UREA} kg</CalculationValue>
+              </CalculationItem>
+              <CalculationItem>
+                <CalculationLabel>MOP</CalculationLabel>
+                <CalculationValue>{calculatedValues.combination2.MOP} kg</CalculationValue>
+              </CalculationItem>
+            </CalculationGrid>
+          </CalculationBox>
 
-                <CalculationBox>
-                  <CalculationTitle>{calculatedValues.combination3.name}</CalculationTitle>
-                  <CalculationGrid>
-                    <CalculationItem>
-                      <CalculationLabel>10-26-26</CalculationLabel>
-                      <CalculationValue>{calculatedValues.combination3["10-26-26"]} kg</CalculationValue>
-                    </CalculationItem>
-                    <CalculationItem>
-                      <CalculationLabel>TSP</CalculationLabel>
-                      <CalculationValue>{calculatedValues.combination3.TSP} kg</CalculationValue>
-                    </CalculationItem>
-                    <CalculationItem>
-                      <CalculationLabel>UREA</CalculationLabel>
-                      <CalculationValue>{calculatedValues.combination3.UREA} kg</CalculationValue>
-                    </CalculationItem>
-                  </CalculationGrid>
-                </CalculationBox>
-              </CalculationsContainer>
-            )}
+          <CalculationBox>
+            <CalculationTitle>{calculatedValues.combination3.name}</CalculationTitle>
+            <CalculationGrid>
+              <CalculationItem>
+                <CalculationLabel>10-26-26</CalculationLabel>
+                <CalculationValue>{calculatedValues.combination3["10-26-26"]} kg</CalculationValue>
+              </CalculationItem>
+              <CalculationItem>
+                <CalculationLabel>TSP</CalculationLabel>
+                <CalculationValue>{calculatedValues.combination3.TSP} kg</CalculationValue>
+              </CalculationItem>
+              <CalculationItem>
+                <CalculationLabel>UREA</CalculationLabel>
+                <CalculationValue>{calculatedValues.combination3.UREA} kg</CalculationValue>
+              </CalculationItem>
+            </CalculationGrid>
+          </CalculationBox>
+        </CalculationsContainer>
+      )}
           </>
         )}
       </Form>

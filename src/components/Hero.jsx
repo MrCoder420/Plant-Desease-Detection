@@ -288,7 +288,7 @@ const Hero = () => {
         ]
       }, {
         headers: {
-          'Authorization': 'Bearer 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',
+          'Authorization': 'Bearer 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',
           'Content-Type': 'application/json'
         }
       });
