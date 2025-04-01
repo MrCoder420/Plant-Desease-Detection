@@ -240,6 +240,7 @@ const ChatBot = () => {
 
     try {
       const apiKey =  import.meta.env.api_key;
+         console.log(${apiKey});
 
       const response = await axios.post('https://openrouter.ai/api/v1/chat/completions', {
         model: "qwen/qwen2.5-vl-3b-instruct:free",
@@ -256,7 +257,7 @@ const ChatBot = () => {
       }, {
       headers: {
     'Authorization': `Bearer ${apiKey}`,
-        console.log(${apiKey}),
+     
     'Content-Type': 'application/json'
 }
 
