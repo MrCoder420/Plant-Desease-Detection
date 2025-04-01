@@ -256,6 +256,7 @@ const ChatBot = () => {
       }, {
       headers: {
     'Authorization': `Bearer ${apiKey}`,
+        console.log(${apiKey}),
     'Content-Type': 'application/json'
 }
 
