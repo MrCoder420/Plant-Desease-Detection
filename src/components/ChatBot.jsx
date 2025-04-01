@@ -239,6 +239,8 @@ const ChatBot = () => {
     setIsLoading(true);
 
     try {
+      const apiKey = import.meta.env.VITE_API_KEY;
+
       const response = await axios.post('https://openrouter.ai/api/v1/chat/completions', {
         model: "qwen/qwen2.5-vl-3b-instruct:free",
         messages: [
@@ -252,10 +254,11 @@ const ChatBot = () => {
           }
         ]
       }, {
-        headers: {
-          'Authorization': 'Bearer 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',
-          'Content-Type': 'application/json'
-        }
+      headers: {
+    'Authorization': `Bearer ${apiKey}`,
+    'Content-Type': 'application/json'
+}
+
       });
 
       const botResponse = response.data.choices[0].message.content;
