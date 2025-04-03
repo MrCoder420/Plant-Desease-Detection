@@ -229,6 +229,8 @@ const TreatmentButton = styled.button`
 `;
 
 const Hero = () => {
+  const apikey = import.meta.env.REACT_APP_OPENAI_API_KEY;
+  
   const [selectedFile, setSelectedFile] = useState(null);
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState(null);
@@ -288,7 +290,7 @@ const Hero = () => {
         ]
       }, {
         headers: {
-          'Authorization': 'Bearer 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',
+         'Authorization': 'Bearer ' + apikey,
           'Content-Type': 'application/json'
         }
       });
