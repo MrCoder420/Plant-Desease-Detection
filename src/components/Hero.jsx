@@ -230,7 +230,7 @@ const TreatmentButton = styled.button`
 
 const Hero = () => {
   const apikey = import.meta.env.REACT_APP_OPENAI_API_KEY;
-  
+  console.log(apikey);
   const [selectedFile, setSelectedFile] = useState(null);
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState(null);
